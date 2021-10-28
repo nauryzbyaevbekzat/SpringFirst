@@ -1,2 +1,2 @@
 # SpringFitrst
-REST API for tode
+REST API for todo
